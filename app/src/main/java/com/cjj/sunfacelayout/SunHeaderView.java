@@ -9,7 +9,7 @@ import in.srain.cube.views.ptr.PtrUIHandler;
 import in.srain.cube.views.ptr.indicator.PtrIndicator;
 
 /**
- * Created by 普益投 on 2016/2/22.
+ * Created by cjj on 2016/2/22.
  */
 public class SunHeaderView extends SunLayout implements PtrUIHandler{
 
